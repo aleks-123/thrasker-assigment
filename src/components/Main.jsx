@@ -24,7 +24,7 @@ const Main = () => {
               type="text"
               placeholder="Your mail here"
             />
-            <button className="bg-[#7c824c] py-[0.7rem] px-[0.5rem] rounded">
+            <button className="bg-[#7c824c] py-[0.7rem] px-[0.5rem] text-white rounded">
               Subscripe
             </button>
           </form>
